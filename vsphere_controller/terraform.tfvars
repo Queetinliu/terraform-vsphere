@@ -1,0 +1,8 @@
+vsphere_server = "10.0.2.253"
+vsphere_user = "administrator@vsphere.local"
+vsphere_password = "!QAZ2wsx#EDC"
+datacenter         = "Datacenter"
+datastore          = "NTNXStorage"
+cluster            = "test"
+network_name       = "Backplane Network"
+template_name        = "centos7.9模板"
