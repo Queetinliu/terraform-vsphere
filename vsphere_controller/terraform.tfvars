@@ -1,6 +1,6 @@
 vsphere_server = "10.0.2.253"
-vsphere_user = "administrator@vsphere.local"
-vsphere_password = "!QAZ2wsx#EDC"
+vsphere_user = "8888"
+vsphere_password = "8888"
 datacenter         = "Datacenter"
 datastore          = "NTNXStorage"
 cluster            = "test"
